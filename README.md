@@ -1,4 +1,6 @@
- My Learning with PSeInt
+# Algoritmia con PSeInt
+
+My Learning with PSeInt
 
  About this project
 
@@ -24,3 +26,15 @@ The hardest part was understanding loops. Sometimes I did not know which loop to
  Conclusion
 
 PSeInt helped me understand programming logic. I am still learning, but now I can create simple algorithms and understand my code better.
+
+## Folder structure / Organización
+
+- [semana-1](semana-1/): variables, inputs, calculations and diagrams (variables, entradas, cálculos y diagramas).
+- [semana-2](semana-2/): conditions and validation (condicionales y validaciones).
+- [semana-3](semana-3/): loops, counters, accumulators and nested loops (ciclos, contadores, acumuladores y ciclos anidados).
+
+Each folder keeps the original PSeInt source files (.psc) and its documentation or flowcharts where available.
+
+### Nota de entrega
+
+En `semana-3/README.md` aparece un ejercicio de Restaurante, pero no se encuentra su archivo `.psc` en la versión revisada. Debo agregarlo cuando esté realizado o actualizar la lista de ejercicios para que coincida con los archivos entregados.
